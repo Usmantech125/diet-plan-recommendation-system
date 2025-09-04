@@ -22,9 +22,4 @@ Then, with one click, you can also view a **sample Indian bodybuilding diet plan
 ---
 
 
-## 🛠 Installation
 
-### 1. Clone this repository
-```bash
-git clone https://github.com/your-username/diet-plan-recommender.git
-cd diet-plan-recommender
