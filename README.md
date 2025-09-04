@@ -2,7 +2,7 @@
 
 A personalized **Bodybuilding Diet Plan Generator** built with [Streamlit](https://streamlit.io).  
 It calculates your **daily calories & macros** (protein, carbs, fat, fiber) based on your weight, height, age, gender, activity level, and fitness goal (bulking, cutting, maintenance).  
-Then, with one click, you can also view a **sample Indian bodybuilding diet plan**.
+Then, with one click, you can also view a **sample bodybuilding diet plan**.
 
 ---
 
